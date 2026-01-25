@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/YosriMlik/YosriMlik/blob/main/profile-pic%203.png" alt="Yosri Mlik" width="200" height="200" style="border-radius: 50%;"/>
-  
+<div align="center">  
   # 👋 Hi, I'm Yosri Mlik
   
   ## 🚀 Software Engineer | Full Stack Developer
@@ -24,7 +22,7 @@ Versatile and motivated **Software Engineer** with solid expertise in web and mo
 
 ## 🛠️ Technical Skills
 
-### Backend & Languages
+### Backend & Fullstack
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -52,27 +50,6 @@ Versatile and motivated **Software Engineer** with solid expertise in web and mo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-## 🚀 Featured Projects
-
-### � Inventory Management Application
-- **Tech Stack:** Flutter, NestJS, Fastify, Prisma, PostgreSQL
-- **Features:** Multi-role authentication, real-time alerts, API management
-- **Description:** Mobile app and web dashboard for streamlined inventory tracking
-
-### 🤖 AI Chat Application
-- **Tech Stack:** Next.js, Elysia, Shadcn UI
-- **Link:** [llm-wrapper-ymlik.vercel.app](https://llm-wrapper-ymlik.vercel.app/)
-- **Description:** Full-stack AI chatbot with modern UI
-
-### 📚 E-Commerce Platform (Reedz)
-- **Tech Stack:** Flask, Vue.js, Bootstrap
-- **Link:** [reedzbookshop.pythonanywhere.com](https://reedzbookshop.pythonanywhere.com)
-- **Description:** Complete online book sales platform
-
-### 🔑 WiFi Password Utility
-- **Tech Stack:** Electron JS
-- **Link:** [github.com/YosriMlik/wifi-password-app](https://github.com/YosriMlik/wifi-password-app)
-- **Description:** Desktop app for WiFi password retrieval and QR code generation
 
 ## � GitHub Stats
 
@@ -81,28 +58,6 @@ Versatile and motivated **Software Engineer** with solid expertise in web and mo
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YosriMlik&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
-
-## 🎓 Education
-
-- **National Diploma of Software Engineer** (2022-2025)  
-  International Institute of Technology (IIT), North American Private University
-
-- **Bachelor in Software Engineering** (2019-2022)  
-  Higher Institute of Informatics (ISI) - Médenine
-
-- **Baccalaureate in Computer Science** (2019)  
-  Lycée 18 Janvier 1852 - Jebiniana
-
-## 🏆 Certifications
-
-- **Hashgraph Developer Certificate** - The Hashgraph Association
-- **React Certificate** - HackerRank
-
-## 🌍 Languages
-
-- **Arabic** - Native
-- **English** - Professional
-- **French** - Professional
 
 ## 🤝 Let's Connect
 
@@ -118,11 +73,4 @@ I'm always open to discussing new opportunities, interesting projects, or just h
   <a href="mailto:ymlik24@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-ymlik24@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-</div>
-
----
-
-<div align="center">
-  <p><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
-  <p>💻 Happy coding! 🚀</p>
 </div>
