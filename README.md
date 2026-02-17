@@ -16,8 +16,6 @@
   </p>
 </div>
 
-## 🎯 About Me
-
 A **Software Engineer** with solid expertise in web and mobile application development. I'm passionate about creating high-quality software products centered on user experience and security.
 
 ### Backend & Fullstack
@@ -49,7 +47,7 @@ A **Software Engineer** with solid expertise in web and mobile application devel
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YosriMlik&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
