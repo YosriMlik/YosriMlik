@@ -18,9 +18,7 @@
 
 ## 🎯 About Me
 
-Versatile and motivated **Software Engineer** with solid expertise in web and mobile application development. I'm passionate about creating high-quality software products centered on user experience and security. Currently seeking opportunities as a **Backend Developer** or **Full Stack Developer** to leverage my problem-solving skills.
-
-## 🛠️ Technical Skills
+A **Software Engineer** with solid expertise in web and mobile application development. I'm passionate about creating high-quality software products centered on user experience and security.
 
 ### Backend & Fullstack
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
