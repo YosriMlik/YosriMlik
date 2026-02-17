@@ -50,9 +50,7 @@ A **Software Engineer** with solid expertise in web and mobile application devel
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YosriMlik&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YosriMlik&theme=radical&hide_border=true" alt="GitHub Streak"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YosriMlik&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 🤝 Let's Connect
