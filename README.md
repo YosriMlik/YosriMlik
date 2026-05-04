@@ -2,18 +2,7 @@
     <h1>Hi, I'm Yosri Mlik</h1>
   
   ## Software Engineer | Full Stack Developer
-  
-  <p align="center">
-    <a href="https://yosrimlik.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-yosrimlik.netlify.app-blue?style=flat-square&logo=google-chrome" alt="Portfolio"/>
-    </a>
-    <a href="https://linkedin.com/in/yosri-mlik" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-yosri--mlik-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:ymlik24@gmail.com">
-      <img src="https://img.shields.io/badge/Email-ymlik24@gmail.com-red?style=flat-square&logo=gmail" alt="Email"/>
-    </a>
-  </p>
+
 </div>
 
 ## 📊 GitHub Stats
