@@ -1,7 +1,7 @@
 <div align="center">  
-    <h1>👋 Hi, I'm Yosri Mlik</h1>
+    <h1>Hi, I'm Yosri Mlik</h1>
   
-  ## 🚀 Software Engineer | Full Stack Developer
+  ## Software Engineer | Full Stack Developer
   
   <p align="center">
     <a href="https://yosrimlik.netlify.app" target="_blank">
@@ -21,7 +21,6 @@ A **Software Engineer** with solid expertise in web and mobile application devel
 ### Backend & Fullstack
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
